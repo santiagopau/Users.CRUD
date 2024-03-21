@@ -1,0 +1,10 @@
+.form__btn {
+    position: fixed; /* Esto permite que el botón se mantenga en la misma posición incluso si se desplaza la página */
+    right: 40px; /* Distancia desde el borde derecho de la ventana del navegador */
+    padding: 15px 20px; /* Espacio interno del botón */
+    top: 40px;
+}
+.app__title {
+    margin-top: 60px;
+    margin-left: 60px;
+}
