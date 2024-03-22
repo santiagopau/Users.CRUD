@@ -24,7 +24,7 @@ function App() {
     <div className='app'>
       <header className='app__header'>
         <h1 className='app__title'>Usuarios</h1>
-        <button onClick={handleOpenForm} className='form__btn'>Create new user</button>
+        <button onClick={handleOpenForm} className='form__btn'> +  Create new user</button>
       </header>
       <FormUser 
       createUser={createUser}
